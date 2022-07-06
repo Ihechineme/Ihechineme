@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ihechineme
-- 👀 I’m interested in frontend development and UI and UX design
-- 🌱 I’m currently learning anything related to frontend development
+- 👀 I’m interested in data analytics and software engineering
+- 🌱 I’m currently learning anything related to data analytics and frontend development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
